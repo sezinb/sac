@@ -1,10 +1,10 @@
 {
-	"id": "com.demo.gauge",
+	"id": "com.demo.gauge_sezinb",
 	"version": "1.0.0",
-	"name": "Demo Gauge",
+	"name": "Demo Gauge_sezinb",
 	"description": "A gauge demo",
 	"newInstancePrefix": "Gauge",
-	"icon": "https://example.demo/box/icon.png",
+	"icon": "https://sezinb.github.io/sac/customwidget/box/icon.png",
 	"vendor": "Demo",
 	"eula": "EULA",
 	"license": "1.0",
@@ -12,21 +12,21 @@
 		{
 			"kind": "main",
 			"tag": "com-demo-gauge",
-			"url": "https://example.demo/box/box.js",
+			"url": "https://sezinb.github.io/sac/customwidget/box/box.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "styling",
 			"tag": "com-demo-gauge-sps",
-			"url": "https://example.demo/box/box_sps.js",
+			"url": "https://sezinb.github.io/sac/customwidget/box/box_sps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
 			"tag": "com-demo-box-bps",
-			"url": "https://example.demo/box/box_bps.js",
+			"url": "https://sezinb.github.io/sac/customwidget/box/box_bps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
